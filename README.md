@@ -1,2 +1,5 @@
-# Mark
-Essay
+When I heard about Introduction to System Integration and Architecture, I thought it would be a subject that teaches me how different parts of a system connect and work as one. I don’t think it’s only about hardware or software, but more about how they fit together to form a complete structure. I’m expecting this subject to help me see the bigger picture of how systems are designed and why integration is so important in today’s world.
+
+I also expect that I’ll learn how system integration is applied in real life. For example, I’m curious about how businesses or schools combine different technologies to make their work easier and more efficient. I feel like this subject will show me how proper system design and architecture can make things more reliable and organized, whether it’s in apps we use every day or in large company systems.
+
+Lastly, I think this subject will really challenge me to think more critically. I know it’s not just about memorizing terms but also about analyzing, planning, and even solving problems when systems don’t work properly. My expectation is that by the end of this subject, I’ll not only understand system integration better but also gain skills that I can use in my future career in IT.
